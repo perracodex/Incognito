@@ -1,7 +1,7 @@
 # Incognito Button
 
 
-![Incognito Button Icon](Incognito Button/assets/icon128.png)
+![Incognito Button Icon](logo.png)
 
 ## Overview
 A simple toolbar incognito button for Chromium-based browsers (Chrome, Edge, etc.), with option to configure a custom home page.
